@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.content{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 30%;
+    top: 30%;
+    font-size: 2em;
+
+}
+.title{
+    font-size: 6em;
+    font-style: italic;
+    color: whitesmoke;
+    text-align: center;
+}
+
+button{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    font-size: 15em;
+}
